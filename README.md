@@ -14,7 +14,7 @@ A FastAPI-based face recognition system using FaceNet and MTCNN.
 
 1. Clone the repository
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/TrungKiencding/fast_facenet
 cd fast_facenet
 ```
 
